@@ -6,4 +6,4 @@ int num2 = 10;
 
 Console.WriteLine(num1 + num2);
 
-Console.WriteLine("Se realizo merge desde sandra_git a master");
+Console.WriteLine("Se creo la rama ejemplo_050824");
